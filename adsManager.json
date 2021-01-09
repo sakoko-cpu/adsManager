@@ -1,0 +1,14 @@
+{
+"guideapp":{
+     "AdsController" : 
+	    {
+		
+		"networkads":"admob",
+		"banneradmob":"ca-app-pub-3940256099942544/6300978111",
+		"interstitialadmob":"ca-app-pub-3940256099942544/1033173712",
+		"nativeadmob":"ca-app-pub-3940256099942544/2247696110"
+	   }
+	
+}
+
+}
